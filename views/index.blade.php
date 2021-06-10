@@ -16,7 +16,7 @@
 
 <div class="tab-content">
     
-    <div id="tab1" class="tab-pane">
+    <div id="tab1" class="tab-pane active">
         <br />
         <div class="table-responsive" id="usersTable"></div>
     </div>
